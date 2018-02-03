@@ -16,9 +16,13 @@ h4 {
   background-color: black;
   text-align: center;
 }
-.bg {
-  background-color: black;
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 41px;
+  font-color: white;
 }
-video{
-  align-items: center;
+p {
+  font-size: 21px;
+  color: gray;
 }
